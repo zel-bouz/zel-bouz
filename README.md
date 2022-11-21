@@ -42,9 +42,3 @@
 <a href="https://github.com/zel-bouz">
   <img align="center" alt="Github stats Card" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zel-bouz&theme=nord_dark"  width="48%" />
 </a>
-
-
-	  
-<h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
-
-<p align="center"> <img  width="900em" alt="zel-bouz's Github comitte snake"  src="https://github.com/zel-bouz/zel-bouz/blob/master/files/snake.svg" /> </p>
